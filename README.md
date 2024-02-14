@@ -1,2 +1,2 @@
 # FATEC-1
-Codes I made for training purposes at university
+Some Python code I made for training purposes during my first semester at university.
